@@ -11,6 +11,13 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 
 - [Mansha Certified Cloud Robotics Automation Specialist (MCCRAS)](03_MCCRAS/Readme.md)
 
+## Admission Test Eligibility Criteria
+- **Program Name:** Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE)
+- **Duration:** 24 months (including 1-month on-job training + 2-month final project)
+
+**Eligibility:** Open to all, but priority given to candidates with:
+- A Bachelor’s degree in Computer Science (CS), IT, Mathematics, Statistics or Economic.
+- **Others:** Strong foundational knowledge in programming/math (self-taught or certifications accepted).
 
 ### Admission Test Syllabus  
 
