@@ -18,10 +18,11 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 **Eligibility:** Open to all, but priority given to candidates with:
 - A Bachelor’s degree in Computer Science (CS), IT, Mathematics, Statistics or Economic.
 - **Others:** Strong foundational knowledge in programming/math (self-taught or certifications accepted).
+- **Language**: Communicating Clearly in Contemporary Academic English
+
 
 ### Admission Test Syllabus  
-
-Here’s the updated **Admission Test Syllabus**, incorporating the **[Basics of Autonomous Systems & Robotics (BASR)](00_BASR/Readme.md)** course as a core component, while keeping it accessible to candidates from CS/IT/Math/Stat backgrounds:
+Here’s the updated **Admission Test Syllabus**, incorporating the [Basics of Autonomous Systems & Robotics (BASR)](00_BASR/Readme.md) course as a core component, while keeping it accessible to candidates from CS/IT/Math/Stat backgrounds:
 
 
 ### **Exam Structure**  
