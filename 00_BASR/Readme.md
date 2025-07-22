@@ -8,7 +8,7 @@ By the end, you’ll be ready to take the free certification test, proving your 
 
 ### **MCASCE Program Fee Structure**  
 
-Here’s a refined **flexible tuition fee structure** for your **Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE)** program, incentivizing high performance in the free prerequisite course while ensuring sustainability:  
+Here’s a refined **flexible tuition fee structure** for **Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE)** program, incentivizing high performance in the free prerequisite course while ensuring sustainability:  
 
 **Program Duration**: 24 months (includes 1-month on-job training + 2-month final project)  
 **Standard Monthly Fee**: $20/month  
@@ -47,8 +47,3 @@ Here’s a refined **flexible tuition fee structure** for your **Mansha Certifie
 - **Structured Commitment**: Registration fee filters serious candidates; discounts encourage excellence.  
 - **Clear ROI**: High achievers get near-free upskilling, aligning with Mansha’s mission to democratize AI/Cloud education.  
 
-**Next Steps**:  
-- Add terms like "Discounts locked for 6 months; reassessed biannually."  
-- Promote as "Pay-as-you-excel" to attract motivated learners.  
-
-Let me know if you'd like to adjust tiers or add corporate sponsorship options!
