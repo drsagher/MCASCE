@@ -12,7 +12,7 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 - [Mansha Certified Cloud Robotics Automation Specialist (MCCRAS)](03_MCCRAS/Readme.md)
 
 
-### MCASCE Admission Test Syllabus  
+### Admission Test Syllabus  
 
 Here’s the updated **Admission Test Syllabus**, incorporating the **Basics of Autonomous Systems & Robotics (BASR)** course as a core component, while keeping it accessible to candidates from CS/IT/Math/Stat backgrounds:
 
