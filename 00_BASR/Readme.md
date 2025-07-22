@@ -128,3 +128,8 @@ By the end, you’ll be ready to take the free certification test, proving your 
 - Study DBMS concepts: SQL queries, NoSQL data modeling
 - Familiarize with Internet and IT protocols and cloud platforms (e.g., AWS, Azure)
 - Solve sample aptitude tests focusing on robotics, AI, and cloud engineering
+
+
+## Additional material
+
+Additional material provides supplementary resources to enhance learning and understanding. It can include articles, videos, podcasts, or exercises that offer further insights and perspectives on a topic. This extra content helps learners deepen their knowledge, explore new ideas, and apply concepts in practical ways.
