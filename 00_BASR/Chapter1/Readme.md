@@ -34,6 +34,33 @@ The scope of autonomous systems encompasses a wide range of applications across 
 
 ## Overview of robotics: history, types, and applications
 
+### History of Robotics  
+The field of robotics has evolved from early mechanical automata to today’s AI-driven intelligent machines. The concept of robots dates back to ancient civilizations, with early examples like **Archytas’ mechanical bird (350 BCE)** and **Leonardo da Vinci’s robotic knight (1495)**. However, modern robotics began in the **20th century** with the introduction of programmable machines. The first industrial robot, **Unimate (1954)**, revolutionized manufacturing by performing repetitive tasks in a General Motors plant. The **1970s–1980s** saw advancements in microprocessors and sensors, enabling more sophisticated robots like **PUMA (Programmable Universal Machine for Assembly)**. The **1990s–2000s** introduced mobile and service robots, such as **iRobot’s Roomba (2002)**, while the **2010s–present** era integrates AI, deep learning, and advanced perception systems, leading to breakthroughs like **Boston Dynamics’ humanoid robots (Atlas, Spot)** and **autonomous vehicles (Tesla, Waymo)**.  
+
+### Types of Robots  
+
+Robots can be classified based on their structure, functionality, and application:  
+
+1. **Industrial Robots** – Fixed or articulated robotic arms used in manufacturing (e.g., welding, painting, assembly).  
+2. **Service Robots** – Assist humans in non-industrial tasks (e.g., domestic cleaning robots, delivery drones).  
+3. **Medical Robots** – Enhance precision in surgeries and diagnostics (e.g., **da Vinci Surgical System, robotic prosthetics**).  
+4. **Autonomous Mobile Robots (AMRs)** – Self-navigating robots used in warehouses, hospitals, and logistics (e.g., **Amazon’s Kiva robots**).  
+5. **Humanoid Robots** – Mimic human appearance and behavior (e.g., **Sophia by Hanson Robotics, Boston Dynamics’ Atlas**).  
+6. **Military & Defense Robots** – Used for bomb disposal, surveillance, and unmanned combat (e.g., **PackBot, Predator drones**).  
+7. **Agricultural Robots** – Automate farming tasks (e.g., **autonomous tractors, robotic harvesters**).  
+8. **Space & Exploration Robots** – Operate in extreme environments (e.g., **NASA’s Mars rovers, underwater drones**).  
+
+### Applications of Robotics
+
+Robotics is transforming industries by improving efficiency, safety, and precision:  
+- **Manufacturing:** Robotic arms automate assembly lines, reducing errors and increasing production speed.  
+- **Healthcare:** Surgical robots enable minimally invasive procedures, while exoskeletons assist in rehabilitation.  
+- **Agriculture:** Autonomous drones monitor crops, and robotic harvesters optimize yield.  
+- **Logistics & Warehousing:** AMRs streamline inventory management and order fulfillment (e.g., **Amazon’s automated warehouses**).  
+- **Transportation:** Self-driving cars (Tesla, Waymo) and delivery drones reshape mobility and logistics.  
+- **Disaster Response:** Robots assist in search-and-rescue missions in hazardous environments.  
+- **Entertainment & Social Interaction:** Humanoid robots like **Pepper** and **Ameca** serve as companions and customer service agents.  
+
 ## Role of autonomous systems in industries (e.g., transportation, healthcare, manufacturing)
 
 ## Key components: sensors, actuators, controllers, and software
