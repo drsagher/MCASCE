@@ -7,7 +7,7 @@ The course also explores real-world applications, from self-driving cars to indu
 By the end, you’ll be ready to take the free certification test, proving your grasp of key concepts required for the Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) program. No prior experience needed—just curiosity about the future of autonomy!
 
 
-## Outline for Basics of Autonomous Systems & Robotics: MCASCE Test Preparation
+## MCASCE Test Preparation Book (Syllabus)
 
 ### 1. Introduction to Autonomous Systems and Robotics
 
