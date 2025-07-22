@@ -14,44 +14,8 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 
 ### Admission Test Syllabus  
 
-Here’s the updated **Admission Test Syllabus**, incorporating the **Basics of Autonomous Systems & Robotics (BASR)** course as a core component, while keeping it accessible to candidates from CS/IT/Math/Stat backgrounds:
+Here’s the updated **Admission Test Syllabus**, incorporating the **[Basics of Autonomous Systems & Robotics (BASR)](00_BASR/Readme.md)** course as a core component, while keeping it accessible to candidates from CS/IT/Math/Stat backgrounds:
 
-
-*(60% Weightage: Technical Fundamentals | 40% Weightage: BASR Concepts)*  
-
-#### **Section 1: Technical Foundations** *(Mandatory for All Candidates)*  
-1. **Programming Basics**  
-   - Python syntax, loops, functions  
-   - Simple algorithms (searching, sorting)  
-
-2. **Mathematics for Autonomy**  
-   - Linear algebra (vectors, matrices)  
-   - Probability & statistics (distributions, Bayes’ theorem)  
-
-3. **Systems Thinking**  
-   - Problem decomposition  
-   - Basic cloud computing terms (IaaS, PaaS)  
-
----
-
-#### **Section 2: Basics of Autonomous Systems & Robotics (BASR)** *(Key Differentiator)*  
-1. **Core Concepts**  
-   - What are autonomous systems? (Robots vs. automated systems)  
-   - Real-world applications (drones, self-driving cars)  
-
-2. **Sensors & Perception**  
-   - Types: LiDAR, cameras, IMUs  
-   - Sensor fusion basics  
-
-3. **Decision-Making**  
-   - Rule-based vs. ML-driven autonomy  
-   - Cloud robotics (ROS, edge computing)  
-
-4. **Ethics & Safety**  
-   - Bias in autonomous AI  
-   - Fail-safe mechanisms  
-
----
 
 ### **Exam Structure**  
 | **Part** | **Topics**               | **Format**              | **Weight** |  
@@ -62,7 +26,6 @@ Here’s the updated **Admission Test Syllabus**, incorporating the **Basics of 
 **Total Duration**: 120 minutes  
 **Passing Threshold**: 50% aggregate (30% minimum in each section)  
 
----
 
 ### **Why This Works**  
 - **Fair for Non-CS Candidates**: BASR section tests conceptual grasp, not hands-on robotics.  
