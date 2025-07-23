@@ -43,7 +43,7 @@ Multi-robot path planning (MRPP) is a critical challenge in swarm robotics and a
 
 Navigation in dynamic environments presents a significant challenge for autonomous systems, requiring real-time adaptation to moving obstacles, unpredictable agents, and changing conditions. Unlike static environments, dynamic navigation demands **continuous perception, predictive modeling, and reactive decision-making** to ensure safe and efficient movement. Algorithms such as **Dynamic Window Approach (DWA), Velocity Obstacles (VO), and Model Predictive Control (MPC)** enable robots to anticipate and avoid collisions with pedestrians, vehicles, or other robots by incorporating **velocity predictions and probabilistic occupancy grids**. Sensor fusion techniques combine data from **LiDAR, cameras, radar, and ultrasonic sensors** to track moving objects accurately, while machine learning approaches—such as **deep reinforcement learning (DRL) or trajectory forecasting networks**—enhance adaptability in complex scenarios like crowded streets or human-robot collaboration spaces. Decentralized multi-agent systems further complicate navigation, requiring **distributed coordination protocols (e.g., ORCA, Consensus-Based Bundle Algorithm)** to prevent deadlocks and ensure scalability. Real-world implementations leverage **ROS, Python-based simulations (Gazebo, PyBullet), and edge computing** for low-latency processing, with applications spanning **autonomous vehicles, delivery drones, and warehouse robots**. Key research frontiers include **robustness to sensor occlusions, energy-efficient replanning, and ethical decision-making in uncertain scenarios**. By integrating these advancements, autonomous systems can achieve reliable navigation in ever-changing, real-world environments.
 
-## Autonomous Navigation and Path Planning: Summary Table
+## Autonomous Navigation and Path Planning
 
 | **Component**               | **Key Algorithms/Methods**                          | **Technologies/Sensors**               | **Applications**                      | **Challenges**                          |
 |-----------------------------|----------------------------------------------------|----------------------------------------|---------------------------------------|-----------------------------------------|
@@ -55,6 +55,27 @@ Navigation in dynamic environments presents a significant challenge for autonomo
 | **Multi-Robot Path Planning** | CBS (Conflict-Based Search), ORCA, M*            | WiFi/5G, UWB, Local Communication      | Swarm Robotics, Logistics             | Deadlocks, Scalability                 |
 | **Dynamic Environments**    | Model Predictive Control (MPC), Reinforcement Learning | LiDAR, Cameras, Radar              | Human-Robot Collaboration, Crowds     | Predictability, Real-time adaptation   |
 | **Robust Localization**     | AMCL, VIO (Visual-Inertial Odometry)              | LiDAR, Cameras, IMUs, Landmarks        | Search-and-Rescue, Underground Robots | Sensor degradation, Environmental changes |
+
+
+## Types and Shapes of Physical Robots  
+
+Physical robots come in diverse forms, each designed to perform specialized tasks based on their structure, mobility, and environment. Broadly, robots can be categorized by their locomotion and mechanical design:  
+
+1. **Wheeled Robots** – Used for stable ground navigation, these include **differential drive (e.g., Roomba), omnidirectional (e.g., Mecanum-wheeled robots), and Ackermann-steering robots (e.g., self-driving cars)**. They excel in structured environments like warehouses and roads.  
+
+2. **Legged Robots** – Inspired by biological movement, these include **bipedal (humanoids like Boston Dynamics’ Atlas), quadrupedal (Spot), and hexapod robots**. They traverse rough terrains but require complex control systems.  
+
+3. **Aerial Robots (Drones)** – **Fixed-wing (long-endurance UAVs) and multirotor (quadcopters, hexacopters)** drones are used for surveillance, delivery, and mapping, relying on aerodynamics and precise thrust control.  
+
+4. **Underwater Robots** – **ROVs (Remotely Operated Vehicles) and AUVs (Autonomous Underwater Vehicles)** are streamlined for aquatic environments, used in oceanography and pipeline inspections.  
+
+5. **Manipulator Arms** – Industrial **articulated (6-DoF arms), SCARA (for assembly), and delta (high-speed pick-and-place) robots** perform repetitive tasks with high precision.  
+
+6. **Hybrid & Soft Robots** – **Wheel-legged robots (e.g., ANYmal) and soft robots (silicone-based, grippers)** adapt to dynamic environments with flexible, compliant structures.  
+
+7. **Swarm & Micro Robots** – Miniaturized robots (e.g., Kilobots) collaborate in large numbers for tasks like environmental monitoring or medical applications.  
+
+Each shape optimizes functionality—whether speed (wheels), adaptability (legs), or dexterity (arms)—highlighting the interplay between form, function, and environment in robotics.
 
 ## Summary
 
