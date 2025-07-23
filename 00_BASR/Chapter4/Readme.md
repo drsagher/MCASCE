@@ -206,6 +206,20 @@ Key considerations when implementing object detection systems include:
 - Optimizing models for deployment in target environments
 
 
+# Python Libraries for Object Detection
+
+| **Library**       | **Key Features**                                  | **Applications**                          | **Example Projects**                                                                 |
+|-------------------|--------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------|
+| **OpenCV**        | Haar cascades, DNN support (YOLO, SSD)           | Real-time face detection, AR markers     | [Face Attendance System](https://github.com/opencv/opencv/tree/master/samples/python) |
+| **YOLOv8 (Ultralytics)** | SOTA real-time detection, easy training      | Autonomous vehicles, surveillance        | [License Plate Detection](https://github.com/ultralytics/ultralytics)                |
+| **TensorFlow OD API** | Faster R-CNN, SSD, EfficientDet              | Medical imaging, retail analytics        | [TF2 Object Detection Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) |
+| **PyTorch TorchVision** | Faster R-CNN, Mask R-CNN, RetinaNet         | Industrial defect detection              | [Facebook AI Detectron2](https://github.com/facebookresearch/detectron2)            |
+| **MMDetection**   | 80+ pre-trained models (DETR, Cascade R-CNN)     | Satellite imagery analysis               | [MMDetection Demo](https://github.com/open-mmlab/mmdetection)                       |
+| **EfficientDet**  | Lightweight, mobile-friendly models              | Edge devices, drones                     | [TensorFlow Lite Deployment](https://www.tensorflow.org/lite/models/object_detection/overview) |
+| **ImageAI**       | Simplified API for YOLO, RetinaNet               | Educational projects, quick prototyping  | [Smart Traffic Monitor](https://github.com/OlafenwaMoses/ImageAI)                   |
+| **Albumentations**| Advanced image augmentation                      | Data preprocessing for custom models     | [Augmentation Pipelines](https://github.com/albumentations-team/albumentations)      |
+| **SuperGradients**| YOLO-NAS, PP-YOLOE, training pipelines           | Robotics, sports analytics               | [YOLO-NAS Deployment](https://github.com/Deci-AI/super-gradients)                   |
+| **PaddleDetection** | PP-YOLO, PP-PicoDet (Baidu's framework)       | Autonomous underwater vehicles           | [PaddlePaddle Models](https://github.com/PaddlePaddle/PaddleDetection)              |
 
 
 
