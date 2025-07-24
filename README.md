@@ -27,8 +27,9 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 - Answer each question honestly and to the best of your ability.
 - For multiple-choice questions, select the option that best reflects your approach or belief.
 - For open-ended and scenario-based questions, provide clear and concise responses.
-- The questionnaire should take approximately 15-20 minutes to complete.
----
+- The questionnaire should take approximately 90-120 minutes to complete.
+
+
 ### Section 1: Reality (Perception and Awareness)
 This section evaluates your ability to accurately perceive and interpret the world, distinguishing fact from bias or illusion.
 
@@ -43,7 +44,6 @@ This section evaluates your ability to accurately perceive and interpret the wor
 
 3. **Scenario-Based**: You witness an accident, but two bystanders provide contradictory accounts of what happened. How would you determine which account is closer to the truth? Provide a step-by-step explanation of your approach.
 
----
 
 ### Section 2: Knowledge (Retention and Application)
 This section assesses your ability to recall and apply factual information effectively.
@@ -59,7 +59,6 @@ This section assesses your ability to recall and apply factual information effec
 
 6. **Scenario-Based**: You’re tasked with assembling a piece of equipment, but the instructions are incomplete. You’ve been given a fact sheet with key technical details about the equipment. How would you use this information to complete the task successfully?
 
----
 
 ### Section 3: Wisdom (Judgment and Decision-Making)
 This section evaluates your ability to make sound, ethical, and forward-thinking decisions in complex situations.
@@ -75,8 +74,6 @@ This section evaluates your ability to make sound, ethical, and forward-thinking
 
 9. **Scenario-Based**: You’re leading a team with limited resources to complete a project. One team member suggests cutting corners to finish faster, while another insists on quality, which will take longer. How would you decide what to do, and what factors would you consider?
 
----
-
 ### Section 4: Understanding (Insight and Contextual Application)
 This section assesses your ability to grasp deeper meanings, see relationships between concepts, and apply them in context.
 
@@ -90,8 +87,6 @@ This section assesses your ability to grasp deeper meanings, see relationships b
 11. **Open-Ended**: Describe a time when you gained a deeper understanding of a situation or concept by seeing it from a new perspective. What changed in your approach or thinking?
 
 12. **Scenario-Based**: You’re given a task to improve a community space, but the community members have conflicting needs (e.g., some want a playground, others want a quiet garden). How would you analyze the situation to propose a solution that balances these needs? Explain your reasoning.
-
----
 
 ### Scoring and Evaluation
 - **Multiple-Choice**: Assign points as indicated (total of 8 points possible across the four questions).
