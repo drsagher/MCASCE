@@ -15,6 +15,7 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 ## Admission Test Eligibility Criteria
 - **Program Name:** Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE)
 - **Duration:** 24 months (including 1-month on-job training + 2-month final project)
+- **Admission Test Fee:** $5
 
 **Eligibility:** Open to all, but priority given to candidates with:
 - A Bachelor’s degree in Computer Science (CS), IT, Mathematics, Statistics or Economic.
