@@ -11,6 +11,7 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 
 - [Mansha Certified Cloud Robotics Automation Specialist (MCCRAS)](03_MCCRAS/Readme.md)
 
+
 ## Admission Test Eligibility Criteria
 - **Program Name:** Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE)
 - **Duration:** 24 months (including 1-month on-job training + 2-month final project)
@@ -26,20 +27,21 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 Here’s a refined **flexible tuition fee structure** for **Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE)** program, incentivizing high performance in the free prerequisite course while ensuring sustainability:  
 
 **Program Duration**: 24 months (includes 1-month on-job training + 2-month final project)  
-**Standard Monthly Fee**: $20/month  
-**Registration Fee (Mandatory for All)**: $50 (one-time, non-refundable)  
+**Standard Monthly Fee**: $35/month  
+**Registration Fee (Mandatory for All)**: $70 (one-time, non-refundable)  
 
 #### **Tuition Discounts Based on Prerequisite Exam Score**  
+
 | **Prerequisite Exam Score** | **Discount on Monthly Fees** | **Effective Monthly Fee** |  
 |-----------------------------|-----------------------------|---------------------------|  
-| **97% and above**           | 100% waiver                 | **$0/month** (only $50 registration fee) |  
-| **90% – 96%**               | 80% waiver                  | **$4/month** |  
-| **85% – 89%**               | 70% waiver                  | **$6/month** |  
-| **75% – 84%**               | 60% waiver                  | **$8/month** |  
-| **70% – 74%**               | No waiver                   | **$20/month** |  
+| **96% and above**           | 100% waiver                 | **$0/month** (only $70 registration fee) |  
+| **90% – 95%**               | 75% waiver                  | **$8.75/month** |  
+| **85% – 89%**               | 50% waiver                  | **$17.50/month** |  
+| **75% – 84%**               | 35% waiver                  | **$22.75/month** |  
+| **65% – 74%**               | No waiver                   | **$35/month** |  
 
 **Notes**:  
-- Discounts apply **only to monthly fees**; registration fee ($50) is mandatory for all.  
+- Discounts apply **only to monthly fees**; registration fee ($70) is mandatory for all.  
 - Learners must maintain a **75%+ grade** in monthly assessments to retain discounts.  
 - Fees cover: Cloud/AI lab access, mentorship, and certification upon completion.  
 
