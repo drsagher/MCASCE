@@ -35,17 +35,18 @@ Here’s a refined **flexible tuition fee structure** for **Mansha Certified Aut
 
 | **Prerequisite Exam Score** | **Discount on Monthly Fees** | **Effective Monthly Fee** |  
 |-----------------------------|-----------------------------|---------------------------|  
-| **96% and above**           | 100% waiver                 | **$0/month** (only $70 registration fee) |  
-| **90% – 95%**               | 75% waiver                  | **$8.75/month** |  
-| **85% – 89%**               | 50% waiver                  | **$17.50/month** |  
-| **75% – 84%**               | 35% waiver                  | **$22.75/month** |  
-| **65% – 74%**               | No waiver                   | **$35/month** |  
+| **90% and above**           | 100% waiver                 | **$0/month** (only $70 registration fee) |  
+| **80% – 89%**               | 75% waiver                  | **$8.75/month** |  
+| **70% – 79%**               | 50% waiver                  | **$17.50/month** |  
+| **65% – 69%**               | 35% waiver                  | **$22.75/month** |  
+| **60% – 64%**               | No waiver                   | **$35/month** |  
 
 **Notes**:  
 - Discounts apply **only to monthly fees**; registration fee ($70) is mandatory for all.  
 - Learners must maintain a **75%+ grade** in monthly assessments to retain discounts.  
 - Fees cover: Cloud/AI lab access, mentorship, and certification upon completion.  
-
+- If any student scores 90% or above in the semester exam, his/her next semester fee will be waived.
+  
 ### **Why This Works**  
 - **Merit-Based Accessibility**: Rewards talent while keeping the program sustainable.  
 - **Structured Commitment**: Registration fee filters serious candidates; discounts encourage excellence.  
