@@ -21,6 +21,7 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 - A Bachelor’s degree in Computer Science (CS), IT, Mathematics, Statistics or Economic.
 - **Others:** Strong foundational knowledge in programming/math (self-taught or certifications accepted).
 - **Language**: Communicating Clearly in Contemporary Academic English
+- **Requirement:** Laptop/PC + Internet
 
 
 ### **MCASCE Program Fee Structure**  
