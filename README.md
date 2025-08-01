@@ -2,7 +2,7 @@
 
 The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certification, offered by Mansha Virtual Institute of Technologies, is a prestigious credential designed for professionals aiming to excel in the integration of cloud computing, robotics, and AI agents. This comprehensive program equips learners with the skills to design, develop, and deploy autonomous systems powered by scalable cloud architectures. Through hands-on labs, real-world projects, and expert-led instruction, MCASCE candidates master cutting-edge technologies like ROS, AWS, and TensorFlow, enabling them to build intelligent, cloud-connected solutions for industries such as autonomous vehicles, smart manufacturing, and IoT. Ideal for programmers, engineers, and tech enthusiasts, MCASCE prepares graduates to lead innovation in the rapidly evolving field of autonomous systems.
 
-## Takeaway
+## MCASCE : Career Pathways and Specializations
 
 - Full-Stack Software Engineer
 - Data Science Analyst
@@ -21,7 +21,10 @@ The **Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE)** certific
 
 *(Note: BASR ensures a strong theoretical and practical foundation, aligning with industry demands for AI-driven robotics and cloud-enabled autonomy.)*  
 
-[Basics of Autonomous Systems & Robotics (BASR) - (Admission Test Syllabus)](00_BASR/Readme.md)
+
+**Admission Test Syllabus**
+
+[Basics of Autonomous Systems & Robotics (BASR) - Click to open](00_BASR/Readme.md)
 
 
 ## Admission Test Eligibility Criteria
