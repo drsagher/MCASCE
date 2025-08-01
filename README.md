@@ -2,14 +2,22 @@
 
 The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certification, offered by Mansha Virtual Institute of Technologies, is a prestigious credential designed for professionals aiming to excel in the integration of cloud computing, robotics, and AI agents. This comprehensive program equips learners with the skills to design, develop, and deploy autonomous systems powered by scalable cloud architectures. Through hands-on labs, real-world projects, and expert-led instruction, MCASCE candidates master cutting-edge technologies like ROS, AWS, and TensorFlow, enabling them to build intelligent, cloud-connected solutions for industries such as autonomous vehicles, smart manufacturing, and IoT. Ideal for programmers, engineers, and tech enthusiasts, MCASCE prepares graduates to lead innovation in the rapidly evolving field of autonomous systems.
 
+## Takeaway
 
-- [Basics of Autonomous Systems & Robotics (BASR) - (Admission Test Syllabus)](00_BASR/Readme.md)
+- [Full Stack Development ]
+- Data Science
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Cloud Computing
 
-- [Mansha Certified Cloud Robotics Fundamentals (MCCRF)](01_MCCRF/Readme.md)
 
-- [Mansha Cloud AI and Robotics Professional (MCARP)](02_MCARP/Readme.md)
+## Admission Test Syllabus
+**Basics of Autonomous Systems & Robotics (BASR)** is a foundational syllabus designed for the **Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE)** admission test. It covers essential concepts in robotics, automation, and intelligent systems, ensuring candidates possess the core knowledge required for advanced certification. Key topics include **robotic kinematics, sensors & perception (LiDAR, cameras, IMUs), control systems (PID, feedback loops), path planning (A*, RRT), and AI integration (reinforcement learning for robotics)**. The syllabus also introduces **autonomous vehicle architectures, ROS (Robot Operating System), and cloud-based robotics (IoT, edge computing, and cloud deployment for autonomy)**. By mastering BASR, candidates demonstrate readiness for the MCASCE program, which bridges **autonomous systems engineering with scalable cloud solutions** for real-world applications like self-driving cars, drones, and industrial automation.  
 
-- [Mansha Certified Cloud Robotics Automation Specialist (MCCRAS)](03_MCCRAS/Readme.md)
+*(Note: BASR ensures a strong theoretical and practical foundation, aligning with industry demands for AI-driven robotics and cloud-enabled autonomy.)*  
+
+[Basics of Autonomous Systems & Robotics (BASR) - (Admission Test Syllabus)](00_BASR/Readme.md)
 
 
 ## Admission Test Eligibility Criteria
