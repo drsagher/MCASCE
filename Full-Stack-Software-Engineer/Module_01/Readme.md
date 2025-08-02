@@ -8,3 +8,5 @@ The dream continues as the developer begins to build, not by writing code from s
 The moment a feature is completed, it doesn't need to be deployed; it's already there. The CI/CD pipeline is a silent, automated force that instantly builds, tests, and deploys the new code to a containerized, serverless cloud infrastructure. The application is born not with a manual launch but with a gentle evolution, where the system monitors performance, predicts potential failures, and scales resources automatically. The dream's final act is not the project's end, but its continuous improvement, with the application's own AI analyzing user behavior and providing the customer with data-driven insights and a roadmap for the next stage of development, forever connecting the customer's evolving vision to the developer's effortless creation.
 
 [Lesson 1 The Customer's World - Why They Invest](Lesson_01/Readme.md)
+
+[Lesson 2 The Developer's Strategic Role](Lesson_02/Readme.md)
