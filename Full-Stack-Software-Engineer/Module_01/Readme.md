@@ -10,3 +10,5 @@ The moment a feature is completed, it doesn't need to be deployed; it's already 
 [Lesson 1 The Customer's World - Why They Invest](Lesson_01/Readme.md)
 
 [Lesson 2 The Developer's Strategic Role](Lesson_02/Readme.md)
+
+[Lesson 3 The Technical Solution - The Full-Stack Domains](Lesson_03/Readme.md)
