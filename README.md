@@ -4,7 +4,7 @@ The Mansha Certified Autonomous Systems and Cloud Engineer (MCASCE) certificatio
 
 ## MCASCE : Career Pathways and Specializations
 
-- Full-Stack Software Engineer
+- [Full-Stack Software Engineer](Full-Stack-Software-Engineer/Readme.md)
 - Data Science Analyst
 - Machine Learning Systems Engineer
 - Deep Learning Research Engineer
