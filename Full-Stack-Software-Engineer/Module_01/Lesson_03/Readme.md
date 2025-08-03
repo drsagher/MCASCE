@@ -74,3 +74,23 @@ The OpenAI Agents SDK is a direct competitor to frameworks like LangChain, LangG
 - **Compared to CrewAI:** CrewAI is highly focused on multi-agent collaboration with a clear, role-based "crew" metaphor. The Agents SDK can also build multi-agent systems, but its "handoff" primitive offers a different, and perhaps more foundational, way to think about agent collaboration.
 
 In essence, the OpenAI Agents SDK is for developers who want to build agentic applications with OpenAI's models in a simple, streamlined, and highly integrated way, without the added complexity or steep learning curve of some of the other popular frameworks.
+
+
+## Model Context Protocol (MCP)
+
+When discussing agentic AI, MCP most likely refers to the Model Context Protocol. This is an open standard and open-source framework introduced by Anthropic that aims to standardize how AI models, particularly large language models (LLMs), connect with and use external tools, data sources, and services.
+Think of MCP as a universal connector, or like a USB-C port for AI. Before MCP, integrating an LLM with external systems was often a tedious, manual, and custom process. Each tool required a specific, handcrafted "wrapper" or "tool definition" to work with a particular LLM.
+
+MCP's goal is to solve this by providing a standardized way to define and expose tools and data to AI models. Here’s a breakdown of its key aspects:
+Key Functions of MCP
+- **Standardized Communication:** It provides a consistent framework for how an AI system (the "client") can discover and interact with external systems (the "server"). This simplifies the process for developers, as they don't have to reinvent the wheel for every new tool integration.
+- **External Tool Access:** MCP allows LLMs to go beyond their training data and perform real-world actions. An MCP server can expose a list of "tools" to the LLM in a structured format (usually JSON). These tools can be anything from a function to search a database, to an API for sending an email, or even an action to update a record in a CRM.
+- **Context and Data Injection:** It enables applications to provide highly relevant context to an LLM. Instead of a developer having to manually craft long prompts, an MCP server can expose a "resource" that the LLM can use, such as the contents of a specific file or the state of a project management board.
+- **Security and Control:** MCP is designed with security in mind. The external systems are exposed through an MCP server, which acts as a gateway. This allows developers to implement guardrails, access controls, and logging, ensuring that the AI can only perform the actions it's explicitly allowed to and that the interactions are monitored. The LLM doesn't have direct, unrestricted access to the underlying system.
+
+**How it Works**
+
+The MCP architecture typically involves two main parts:
+- **The Client:** This is the AI-powered application or agent (like a coding assistant in an IDE, or an agent built with a framework like LangGraph). It connects to one or more MCP servers.
+- **The Server:** This is a separate process or service that exposes a set of tools and data to the client. It handles the actual execution of actions on the external system (e.g., calling an API, reading a file).
+In short, MCP is a significant development in the field of agentic AI because it provides a much-needed standardized protocol for connecting AI to the real world. It moves the industry closer to a future where AI agents can seamlessly discover, understand, and use a wide range of tools and services without requiring complex, custom integrations for every single one.
