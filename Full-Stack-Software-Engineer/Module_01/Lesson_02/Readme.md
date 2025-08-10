@@ -1,5 +1,7 @@
 # Lesson 2 The Developer's Strategic Role
 
+Full-stack developers play a strategic role in Industry 4.0 by bridging the gap between complex technological demands and business objectives, driving innovation and financial growth. Their ability to design, develop, and deploy end-to-end software solutions—encompassing front-end interfaces, back-end logic, and integration with technologies like IoT, AI, and cloud platforms—enables industries to achieve seamless automation, real-time analytics, and scalable systems. By building tailored applications that optimize processes, enhance customer experiences, and enable data-driven decision-making, developers directly contribute to operational efficiencies and new revenue streams, with top industries seeing up to 3.6% cost reductions and 2.9% revenue growth annually. Their strategic importance is further amplified by their role in ensuring cybersecurity and interoperability, fostering trust and collaboration across digital ecosystems. For developers, this translates into high-demand careers with projected 13-17% job growth through 2030-2033 and salaries averaging $75,000-$177,000 in 2025, positioning them as critical drivers of both technological and economic advancement.
+
 ## Content Development Strategy
 A best content development strategy is not a one-size-fits-all plan but a structured, data-driven approach that aligns content creation with specific business goals and audience needs. The most effective strategies are iterative, flexible, and focused on providing genuine value.
 
@@ -218,10 +220,10 @@ Here's a detailed roadmap on how to master SQL queries:
 Before you can run, you have to walk. You must have a deep understanding of the fundamental building blocks of SQL.
 - **Data Structures:** Understand what a relational database is, how tables, rows, and columns work, and the concept of primary and foreign keys that define relationships between tables.
 - **The Big Four Keywords:** Master the essential keywords for manipulating data (CRUD - Create, Read, Update, Delete).
-  o	***SELECT:*** The foundation for retrieving data.
-  o	***INSERT:*** For adding new data.
-  o	***UPDATE:*** For modifying existing data.
-  o	***DELETE:*** For removing data.
+  -	***SELECT:*** The foundation for retrieving data.
+  -	***INSERT:*** For adding new data.
+  -	***UPDATE:*** For modifying existing data.
+  -	***DELETE:*** For removing data.
 - **Filtering and Ordering:** Become an expert with the WHERE clause for filtering data based on conditions and the ORDER BY clause for sorting your results.
 - **Aggregate Functions:** Learn how to summarize data using functions like COUNT, SUM, AVG, MIN, and MAX. Understand how the GROUP BY clause works with these functions to perform calculations on groups of rows.
 
