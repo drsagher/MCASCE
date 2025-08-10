@@ -71,7 +71,10 @@ A best-in-class strategy is never static. It's constantly being refined based on
 ## Solutions Provided by A Full Stack Developer
 
 A full-stack developer's unique ability to work on every part of an application allows them to provide a wide range of solutions. They are not just limited to building a single feature but can create entire systems from scratch.
+
 Here are the various types of solutions a full-stack developer can provide:
+
+<img src="fsd.png" />
 
 ### Web Applications (The Most Common)
 This is the bread and butter of full-stack development. A full-stack developer can build a complete web application from end to end.
