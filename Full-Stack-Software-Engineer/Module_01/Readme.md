@@ -14,3 +14,5 @@ The moment a feature is completed, it doesn't need to be deployed; it's already 
 [Lesson 3 The Technical Solution - The Full-Stack Domains](Lesson_03/Readme.md)
 
 [Lesson 4 The Three-Way Bond in Action](Lesson_04/Readme.md)
+
+[Lesson 5 Bridging Business Needs to Technical Solutions](Lesson_05/Readme.md)
