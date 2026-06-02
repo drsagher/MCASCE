@@ -12,57 +12,20 @@ The course follows an industry-grade engineering workflow — from OpenAPI speci
 
 Upon successful completion, students will be able to:
 
-| # | Outcome |
-|---|---------|
-| LO-1 | Design resource-oriented REST APIs using OpenAPI 3.1 specification-first methodology |
-| LO-2 | Build Next.js App Router Route Handlers connected to a local MySQL 8 database via WAMP |
-| LO-3 | Implement authentication and authorization using JWT, API keys, and OAuth 2.0 patterns |
-| LO-4 | Apply data validation, error handling, and HTTP semantics correctly and consistently |
-| LO-5 | Write and run automated API tests using Jest, Supertest, and Postman/Newman |
-| LO-6 | Document APIs with Swagger UI embedded in the Next.js project |
-| LO-7 | Version, rate-limit, and paginate APIs following industry standards |
-| LO-8 | Apply basic GraphQL schema design and resolver patterns |
-| LO-9 | Analyse API performance, security vulnerabilities, and observability patterns |
-| LO-10 | Deliver a complete, tested, and documented API project from requirements to deployment-ready state |
+- Design resource-oriented REST APIs using OpenAPI 3.1 specification-first methodology 
+- Build Next.js App Router Route Handlers connected to a local MySQL 8 database via WAMP 
+- Implement authentication and authorization using JWT, API keys, and OAuth 2.0 patterns 
+- Apply data validation, error handling, and HTTP semantics correctly and consistently 
+- Write and run automated API tests using Jest, Supertest, and Postman/Newman 
+- Document APIs with Swagger UI embedded in the Next.js project 
+- Version, rate-limit, and paginate APIs following industry standards 
+- Apply basic GraphQL schema design and resolver patterns 
+- Analyse API performance, security vulnerabilities, and observability patterns 
+- Deliver a complete, tested, and documented API project from requirements to deployment-ready state
 
+## 2. Environment Setup
 
-
-## 3. Technology Stack
-
-### Core Stack
-
-| Layer | Technology | Version | Role |
-|-------|-----------|---------|------|
-| Framework | Next.js | 15.x (App Router) | API route handlers, middleware |
-| Language | TypeScript | 5.x | Type-safe API development |
-| Runtime | Node.js | 22.x LTS | JavaScript runtime |
-| Database | MySQL | 8.x | Relational data store (via WAMP) |
-| Local Server | WAMP Server | 3.x | Apache + MySQL + PHP (MySQL GUI) |
-| ORM | Prisma | 5.x | Type-safe DB access, migrations |
-| Auth | JWT (jose) | 5.x | Stateless authentication |
-| Validation | Zod | 3.x | Schema-based request validation |
-| Documentation | Swagger UI / OpenAPI | 3.1 | API specification & interactive docs |
-| Testing | Jest + Supertest | Latest | Unit & integration testing |
-| API Client | Postman + Newman | Latest | Manual & automated API testing |
-| Env Management | dotenv / .env.local | — | Environment variable management |
-
-### Supporting Tools
-
-| Tool | Purpose |
-|------|---------|
-| VS Code | IDE with REST Client extension |
-| Git + GitHub | Version control & collaboration |
-| TablePlus / phpMyAdmin | MySQL GUI (via WAMP) |
-| Thunder Client | VS Code in-editor API testing |
-| Insomnia | Alternative REST/GraphQL client |
-| pnpm | Fast package manager |
-| ESLint + Prettier | Code quality and formatting |
-
-
-
-## 4. Environment Setup
-
-### 4.1 WAMP Installation & MySQL Configuration
+### 2.1 WAMP Installation & MySQL Configuration
 
 ```bash
 # WAMP Stack installed at: C:\wamp64\
@@ -81,7 +44,7 @@ GRANT ALL PRIVILEGES ON mrse502_db.* TO 'mrse502_user'@'localhost';
 FLUSH PRIVILEGES;
 ```
 
-### 4.2 Next.js Project Initialization
+### 2.2 Next.js Project Initialization
 
 ```bash
 # Create new Next.js project
@@ -94,7 +57,7 @@ pnpm add prisma @prisma/client zod jose next-swagger-doc swagger-ui-react
 pnpm add -D jest @types/jest ts-jest supertest @types/supertest
 ```
 
-### 4.3 Prisma + MySQL Configuration
+### 2.3 Prisma + MySQL Configuration
 
 ```bash
 # Initialize Prisma
@@ -110,7 +73,7 @@ NODE_ENV="development"
 NEXT_PUBLIC_API_BASE_URL="http://localhost:3000/api"
 ```
 
-### 4.4 Project Structure (Reference)
+### 2.4 Project Structure (Reference)
 
 ```
 mrse502-api/
@@ -147,11 +110,9 @@ mrse502-api/
 ```
 
 
-## 5. Course Modules
+## 3. Course Modules
 
 ### MODULE 1 — Foundations of API Engineering
-
-#### Week 1 — APIs in Modern Software Systems (3 hrs)
 
 **Topics:**
 - What is an API? Web API taxonomy: REST, GraphQL, gRPC, WebSockets, tRPC
@@ -161,7 +122,7 @@ mrse502-api/
 - URL design patterns and anti-patterns
 - API lifecycle: design → build → test → document → version → deprecate
 
-**Lab 1-A — HTTP Fundamentals (30 min):**
+**HTTP Fundamentals:**
 Use Postman to send raw HTTP requests (GET, POST, PUT, DELETE, PATCH) to public APIs (JSONPlaceholder, httpbin.org). Inspect headers, status codes, and response bodies. Document observations.
 
 **Key Concepts:**
@@ -169,9 +130,7 @@ Use Postman to send raw HTTP requests (GET, POST, PUT, DELETE, PATCH) to public 
 - Safe vs. idempotent methods
 - Content negotiation (`Accept`, `Content-Type`)
 
-
-
-#### Week 2 — Environment Setup & First Route Handler (3 hrs)
+#### Week 2 — Environment Setup & First Route Handler
 
 **Topics:**
 - WAMP installation, MySQL 8 configuration, phpMyAdmin walkthrough
@@ -182,7 +141,7 @@ Use Postman to send raw HTTP requests (GET, POST, PUT, DELETE, PATCH) to public 
 - Prisma schema design, `prisma migrate dev`, `prisma studio`
 - TypeScript essentials for API development: interfaces, generics, utility types
 
-**Lab 1-B — First API Route (60 min):**
+**First API Route:**
 
 ```typescript
 // src/app/api/v1/health/route.ts
