@@ -147,15 +147,9 @@ mrse502-api/
 ```
 
 
-
 ## 5. Course Modules
 
-
-
 ### MODULE 1 — Foundations of API Engineering
-**Weeks 1–2 | 6 Hours**
-
----
 
 #### Week 1 — APIs in Modern Software Systems (3 hrs)
 
@@ -210,7 +204,6 @@ Connect Prisma to WAMP MySQL. Run first migration. Verify with phpMyAdmin.
 
 
 ### MODULE 2 — RESTful API Design & Specification
-**Weeks 3–4 | 6 Hours**
 
 #### Week 3 — Specification-First Design with OpenAPI 3.1 (3 hrs)
 
@@ -261,8 +254,6 @@ paths:
 - Contract-first development workflow
 - Linting OpenAPI specs with Spectral
 - Semantic versioning for APIs
-
-
 
 #### Week 4 — Resource Modeling & URL Design (3 hrs)
 
@@ -346,12 +337,8 @@ export async function POST(request: NextRequest) {
 }
 ```
 
----
-
 ### MODULE 3 — Data Validation & Error Handling
 **Weeks 5–6 | 6 Hours**
-
----
 
 #### Week 5 — Input Validation with Zod (3 hrs)
 
@@ -395,7 +382,6 @@ export type CreateUserInput = z.infer<typeof createUserSchema>;
 
 Build a reusable `withValidation` higher-order function that validates request bodies and query strings, returning standardized 422 errors.
 
----
 
 #### Week 6 — Error Handling & HTTP Semantics (3 hrs)
 
@@ -442,12 +428,10 @@ export const errorResponse = (error: unknown) => {
 
 Refactor all existing route handlers to use the centralized error system. Test each error scenario with Postman. Document all possible error codes per endpoint in OpenAPI spec.
 
----
 
 ### MODULE 4 — Authentication & Authorization
 **Weeks 7–8 | 6 Hours**
 
----
 
 #### Week 7 — JWT Authentication (3 hrs)
 
@@ -519,8 +503,6 @@ export async function middleware(request: NextRequest) {
 }
 ```
 
----
-
 #### Week 8 — Authorization, API Keys & OAuth 2.0 Patterns (3 hrs)
 
 **Topics:**
@@ -549,12 +531,9 @@ export function generateApiKey(): { raw: string; hash: string; prefix: string } 
 
 Add role-based guards to existing endpoints. Admin-only: user management. User: own profile only. Test all permission combinations in Postman.
 
----
 
 ### MODULE 5 — API Documentation
 **Weeks 9 | 3 Hours**
-
----
 
 #### Week 9 — Swagger UI & API Documentation (3 hrs)
 
@@ -606,12 +585,8 @@ export default function DocsPage() {
 
 Document 100% of existing endpoints in OpenAPI spec. Add examples, descriptions, and error responses. Verify interactive testing works via Swagger UI at `http://localhost:3000/docs`.
 
----
-
 ### MODULE 6 — API Testing
 **Weeks 10–11 | 6 Hours**
-
----
 
 #### Week 10 — Unit & Integration Testing (3 hrs)
 
@@ -672,8 +647,6 @@ describe('GET /api/v1/users', () => {
 
 Write unit tests for all Zod schemas and utility functions. Write integration tests for all CRUD endpoints covering happy paths and edge cases.
 
----
-
 #### Week 11 — Postman & Newman Automated Testing (3 hrs)
 
 **Topics:**
@@ -713,12 +686,8 @@ pm.test("Response time < 500ms", () => pm.expect(pm.response.responseTime).to.be
 
 Build a complete Postman collection covering all API endpoints with test scripts. Run with Newman and generate an HTML report.
 
----
-
 ### MODULE 7 — Advanced API Patterns
 **Weeks 12–13 | 6 Hours**
-
----
 
 #### Week 12 — Versioning, Pagination & Rate Limiting (3 hrs)
 
@@ -766,8 +735,6 @@ const nextCursor = hasNextPage ? users[limit - 1].id : null;
 **Lab 7-A — Pagination & Rate Limiting (60 min):**
 
 Implement cursor-based pagination on the Users endpoint. Add rate limiting middleware. Test limits with Postman runner (100 rapid requests).
-
----
 
 #### Week 13 — GraphQL with Next.js (3 hrs)
 
@@ -823,12 +790,8 @@ export { yoga as GET, yoga as POST };
 
 Build a parallel GraphQL endpoint for the Products resource. Test queries and mutations via GraphiQL at `http://localhost:3000/api/graphql`.
 
----
-
 ### MODULE 8 — Security, Performance & Observability
 **Week 14 | 3 Hours**
-
----
 
 #### Week 14 — API Security, Performance & Logging (3 hrs)
 
@@ -895,12 +858,8 @@ const nextConfig = {
 
 Run OWASP checklist against the course API. Fix identified vulnerabilities. Add request logging middleware to all routes. Verify logs are structured JSON.
 
----
-
 ### MODULE 9 — Capstone Project & Review
 **Week 15 | 3 Hours**
-
----
 
 #### Week 15 — Project Presentations & Course Review (3 hrs)
 
@@ -912,8 +871,6 @@ Run OWASP checklist against the course API. Fix identified vulnerabilities. Add 
 - WebSockets and Server-Sent Events for real-time APIs
 - Edge functions and serverless API deployment (Vercel, Cloudflare Workers — overview)
 - Career pathways: Backend Engineer, API Platform Engineer, Developer Experience Engineer
-
----
 
 ## 6. Lab & Project Structure
 
@@ -937,7 +894,6 @@ Run OWASP checklist against the course API. Fix identified vulnerabilities. Add 
 | 14 | 8-A | Security Audit & Logging | 1.5 |
 | 15 | —  | Capstone Presentation | 1.0 |
 
----
 
 ### Capstone Project Requirements
 
@@ -968,7 +924,6 @@ Students will design and build a production-quality API for a real-world domain 
 3. Postman collection with Newman HTML report
 4. Peer review of one other team's API (written, 1 page)
 
----
 
 ## 7. Assessment & Grading
 
@@ -1006,7 +961,6 @@ Students will design and build a production-quality API for a real-world domain 
 | D | 60–69% |
 | F | Below 60% |
 
----
 
 ## 8. Tools & References
 
@@ -1119,8 +1073,6 @@ enum Role {
 }
 ```
 
----
-
 ## Appendix A — Course Schedule at a Glance
 
 | Week | Module | Topic | Lab |
@@ -1140,8 +1092,6 @@ enum Role {
 | 13 | M7 | GraphQL with Next.js | 7-B: GraphQL API |
 | 14 | M8 | Security, Performance, Observability | 8-A: Security Audit |
 | 15 | M9 | Capstone Presentations & Review | Demo Day |
-
----
 
 ## Appendix B — npm Scripts Reference
 
@@ -1167,8 +1117,3 @@ enum Role {
 }
 ```
 
----
-
-*MRSE-502 API Design & Development — Course Outline v2.0*
-*Department of Software Engineering | Revised for Next.js 15, MySQL 8, Prisma 5, OpenAPI 3.1*
-*Last Updated: June 2026*
