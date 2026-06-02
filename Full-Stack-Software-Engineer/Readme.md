@@ -15,7 +15,7 @@
 
 [MRSE-307 Structured Query Language]()
 
-[MRSE-502 API Design & Development]()
+[MRSE-502 API Design & Development](MRSE-502/Readme.md)
 
 [MRSE-504 Secure Authentication Systems]()
 
